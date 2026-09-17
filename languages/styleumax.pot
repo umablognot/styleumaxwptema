@@ -1,0 +1,633 @@
+# Styleumax theme translation template.
+# Copyright (C) 2026 Styleumax
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Styleumax 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/styleumax/styleumax/issues\n"
+"POT-Creation-Date: 2026-09-16 20:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: styleumax\n"
+
+#: inc/customizer.php
+msgid "\"Yukarı dön\" düğmesini göster"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "%d dakikalık okuma"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "%d dk okuma"
+msgstr ""
+
+#: search.php
+msgid "%d sonuç bulundu."
+msgstr ""
+
+#: comments.php
+msgid "%d yorum"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "2 kolon ızgara"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "3 kolon ızgara"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "4 kolon ızgara"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Adınız"
+msgstr ""
+
+#: inc/meta-boxes.php
+msgid "Alt başlık"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Alt bilgi"
+msgstr ""
+
+#: inc/setup.php
+msgid "Alt bilgi 1. alan"
+msgstr ""
+
+#: inc/setup.php
+msgid "Alt bilgi 2. alan"
+msgstr ""
+
+#: inc/setup.php
+msgid "Alt bilgi 3. alan"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Alt bilgi telif metni"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Alt bilgi zemini"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Alt bilgi üstünde \"Takip Edin\" şeridini göster"
+msgstr ""
+
+#: footer.php
+#: inc/setup.php
+msgid "Alt menü"
+msgstr ""
+
+#: header.php
+#: inc/setup.php
+msgid "Ana menü"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ana renk (bağlantılar, düğmeler, çipler)"
+msgstr ""
+
+#: searchform.php
+msgid "Anahtar kelime yazın..."
+msgstr ""
+
+#: inc/schema.php
+#: inc/setup.php
+#: inc/template-tags.php
+msgid "Anasayfa"
+msgstr ""
+
+#: 404.php
+#: inc/template-tags.php
+msgid "Anasayfaya dön"
+msgstr ""
+
+#: searchform.php
+msgid "Ara"
+msgstr ""
+
+#: 404.php
+msgid "Aradığınız sayfa bulunamadı"
+msgstr ""
+
+#: sidebar.php
+msgid "Arama"
+msgstr ""
+
+#: header.php
+msgid "Arama formunu aç/kapat"
+msgstr ""
+
+#: inc/schema.php
+#: search.php
+msgid "Arama sonuçları: %s"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Arama: %s"
+msgstr ""
+
+#: searchform.php
+msgid "Aranacak kelime"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Arşiv düzeni"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Arşiv sayfası üstü"
+msgstr ""
+
+#: inc/setup.php
+msgid "Arşiv, tek yazı ve sayfa görünümünde sağ tarafta görüntülenir."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Arşivlerde yan sütunu göster"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Açık (varsayılan)"
+msgstr ""
+
+#: inc/setup.php
+msgid "Açık zemin"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Başlık:"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Bize ulaşın"
+msgstr ""
+
+#: footer.php
+msgid "Bizi takip edin"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Bluesky"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Boş bırakılırsa site adı ve yıl otomatik yazdırılır."
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Breadcrumb navigasyonu"
+msgstr ""
+
+#: inc/meta-boxes.php
+msgid "Bu alan yazı sayfasında başlığın hemen altında vurgulanarak gösterilir."
+msgstr ""
+
+#: template-parts/content-none.php
+msgid "Bu bölümde henüz yayınlanmış bir yazı bulunmuyor. Arama kutusunu kullanabilir ya da başka bir kategoriye göz atabilirsiniz."
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Bu kategorideki yazı listesi hangi düzende görünsün?"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Bu kategorideki yazı listesi hangi düzende görünsün? Boş bırakılırsa genel ayar kullanılır."
+msgstr ""
+
+#: comments.php
+msgid "Bu yazıya yorum yapma kapalıdır."
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Dergi (büyük manşet + kolonlar)"
+msgstr ""
+
+#: inc/security.php
+msgid "Dosya ek sayfalarını doğrudan dosyaya yönlendir"
+msgstr ""
+
+#: attachment.php
+msgid "Dosyayı indir"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Düzenler"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "E-posta"
+msgstr ""
+
+#: inc/customizer.php
+msgid "E-posta adresi"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "E-posta adresiniz yayınlanmayacaktır."
+msgstr ""
+
+#: comments.php
+msgid "Eski yorumlar"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Genel"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Global ayar"
+msgstr ""
+
+#: index.php
+msgid "Günlüğü"
+msgstr ""
+
+#: inc/security.php
+msgid "Güvenlik ve yükleme"
+msgstr ""
+
+#: template-parts/content-none.php
+msgid "Henüz içerik yok"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Kategori:"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Koyu"
+msgstr ""
+
+#: inc/setup.php
+msgid "Koyu metin"
+msgstr ""
+
+#: header.php
+msgid "Koyu/açık mod"
+msgstr ""
+
+#: header.php
+msgid "Koyu/açık mod değiştir"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Koyu/açık mod düğmesini göster"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Liste (yatay kartlar)"
+msgstr ""
+
+#: template-parts/archive-mag.php
+#: template-parts/slider.php
+msgid "Manşet"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Mastodon"
+msgstr ""
+
+#: header.php
+msgid "Menüyü aç/kapat"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Pinterest"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Reklam alanları"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Reklam kodlarını buraya yapıştırabilir veya tema klasöründeki template-parts/ads/*.php dosyalarını doğrudan düzenleyebilirsiniz. Alan boşsa ve dosya boşsa hiçbir şey yazdırılmaz."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Renk modu"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Renkler"
+msgstr ""
+
+#: inc/security.php
+msgid "SVG yüklemesine izin ver (yalnızca yöneticiler)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sadece slider düzeninde geçerlidir. Kalan yazılar liste olarak devam eder."
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Sayfa %s"
+msgstr ""
+
+#: inc/setup.php
+msgid "Sayfa alt bilgisindeki üç kolonlu widget alanlarından biri."
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Sayfa bulunamadı"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Sayfa kısayolları"
+msgstr ""
+
+#: 404.php
+msgid "Sayfa taşınmış, silinmiş veya adresi yanlış yazılmış olabilir. Aşağıdaki arama kutusuyla içeriğe ulaşabilir ya da anasayfaya dönebilirsiniz."
+msgstr ""
+
+#: page.php
+#: single.php
+msgid "Sayfalar:"
+msgstr ""
+
+#: footer.php
+msgid "Sayfanın başına dön"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sayfanın solunda önceki/sonraki yazı, anasayfa ve arama kısayolları."
+msgstr ""
+
+#: inc/widgets.php
+msgid "Seçtiğiniz kategoriden başlıklı ve görselli yazı listesi gösterir."
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Sitede ara"
+msgstr ""
+
+#: template-parts/archive-slider.php
+#: template-parts/slider.php
+msgid "Slayt %d"
+msgstr ""
+
+#: inc/category-layouts.php
+msgid "Slayt (carousel + liste)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Slayt düzeninde kaç yazı gösterilsin"
+msgstr ""
+
+#: front-page.php
+#: sidebar.php
+msgid "Son yazılar"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Sonraki sayfa"
+msgstr ""
+
+#: template-parts/archive-slider.php
+#: template-parts/slider.php
+msgid "Sonraki slayt"
+msgstr ""
+
+#: inc/template-tags.php
+#: single.php
+msgid "Sonraki yazı"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sosyal medya"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Styleumax Ayarları"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Styleumax: Öne çıkan yazılar"
+msgstr ""
+
+#: footer.php
+msgid "Takip edin"
+msgstr ""
+
+#: inc/meta-boxes.php
+msgid "Tek satırda yazının özeti veya açıklaması (isteğe bağlı)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Tek yazı altı"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "Telegram"
+msgstr ""
+
+#: inc/setup.php
+msgid "Tema ana rengi"
+msgstr ""
+
+#: inc/setup.php
+msgid "Tema vurgu rengi"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "TikTok"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Tüm kategoriler"
+msgstr ""
+
+#: inc/security.php
+msgid "Tüm seçenekler varsayılan olarak kapalı/başlangıç değerindedir; güvenliği artırmak için açabilirsiniz."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Varsayılan arşiv düzeni"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Varsayılan arşiv düzeni buradan seçilir; her kategori için ayrı düzen, Kategoriler ekranındaki alandan belirlenebilir."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Vurgu rengi (ikonlar, etiketler)"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Web sitesi"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/security.php
+msgid "WordPress sürümünü gizle"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "X (Twitter)"
+msgstr ""
+
+#: inc/security.php
+msgid "XML-RPC'yi devre dışı bırak"
+msgstr ""
+
+#: inc/setup.php
+msgid "Yan sütun"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Yan sütun altı"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Yan sütun üstü"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yanıt yazın"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yanıtı iptal et"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yazar hakkında"
+msgstr ""
+
+#: single.php
+msgid "Yazı dolaşımı"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Yazı sayısı:"
+msgstr ""
+
+#: comments.php
+msgid "Yeni yorumlar"
+msgstr ""
+
+#: comments.php
+msgid "Yorum sayfaları"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yorumu gönder"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yorumunuz"
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Yorumunuz onay bekliyor."
+msgstr ""
+
+#: inc/customizer.php
+#: inc/template-tags.php
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Yüzen kısayol çubuğunu göster"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Ziyaretçi tercihine göre"
+msgstr ""
+
+#: footer.php
+msgid "© %2$s %1$s. Tüm hakları saklıdır."
+msgstr ""
+
+#: inc/template-tags.php
+msgid "Önceki sayfa"
+msgstr ""
+
+#: template-parts/archive-slider.php
+#: template-parts/slider.php
+msgid "Önceki slayt"
+msgstr ""
+
+#: inc/template-tags.php
+#: single.php
+msgid "Önceki yazı"
+msgstr ""
+
+#: inc/widgets.php
+msgid "Öne çıkanlar"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Özel RSS adresi"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Üst bilgi reklamı (logonun yanı)"
+msgstr ""
+
+#: header.php
+msgid "Üst menü"
+msgstr ""
+
+#: inc/setup.php
+msgid "Üst menü (masthead)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Üst şerit zemini"
+msgstr ""
+
+#: inc/customizer.php
+msgid "İletişim sayfası adresi"
+msgstr ""
+
+#: single.php
+msgid "İlgili yazılar"
+msgstr ""
+
+#: header.php
+msgid "İçeriğe atla"
+msgstr ""
+

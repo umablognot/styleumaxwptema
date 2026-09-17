@@ -1,0 +1,58 @@
+<?php
+/**
+ * Template Name: Tam genişlik (kenar boşluksuz)
+ * Template Post Type: page
+ *
+ * Full-width page template: content spans the whole container,
+ * the sidebar is intentionally omitted.
+ *
+ * @package Styleumax
+ * @since   1.0.0
+ */
+
+declare( strict_types = 1 );
+
+defined( 'ABSPATH' ) || exit;
+
+get_header();
+
+while ( have_posts() ) :
+	the_post();
+	?>
+	<div class="sumx-container sumx-site-main" id="sumx-main-content">
+		<?php styleumax_breadcrumbs(); ?>
+
+		<article <?php post_class(); ?>>
+			<header class="sumx-single-header">
+				<h1><?php the_title(); ?></h1>
+			</header>
+
+			<?php if ( has_post_thumbnail() ) : ?>
+				<figure class="sumx-single-thumb">
+					<?php the_post_thumbnail( 'styleumax-lead', array( 'class' => 'img-fluid' ) ); ?>
+				</figure>
+			<?php endif; ?>
+
+			<div class="sumx-entry">
+				<?php the_content(); ?>
+				<?php
+				wp_link_pages(
+					array(
+						'before' => '<nav class="page-links d-flex gap-2 align-items-center"><span class="fw-bold">' . esc_html__( 'Sayfalar:', 'styleumax' ) . '</span>',
+						'after'  => '</nav>',
+					)
+				);
+				?>
+			</div>
+
+			<?php
+			if ( comments_open() || get_comments_number() ) {
+				comments_template();
+			}
+			?>
+		</article>
+	</div>
+	<?php
+endwhile;
+
+get_footer();
